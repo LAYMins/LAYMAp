@@ -7,7 +7,7 @@ title = LAYM
 package.name = LAYM
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.LAYMins
+package.domain = org.wiseplat
 
 # (str) Source code where the main.py live
 source.dir = .
